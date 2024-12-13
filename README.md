@@ -1,4 +1,3 @@
-[TOC]
 # Git 入门
 基于[廖雪峰入门教程](https://liaoxuefeng.com/books/git/introduction/index.html)。
 ## 0.SSH秘钥
